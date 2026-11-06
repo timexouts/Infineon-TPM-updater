@@ -1,0 +1,9 @@
+build/
+*.o
+*.d
+*.BIN
+*.bin
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/
